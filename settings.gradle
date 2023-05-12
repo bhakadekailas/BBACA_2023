@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 rootProject.name = "BBACA_2023"
 include ':app'
 include ':app:implicitintent'
+include ':app:explicitintent'
+include ':app:sqlitedemo'
+include ':app:activitylifecycle'

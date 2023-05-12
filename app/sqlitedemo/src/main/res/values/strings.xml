@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="check">Check</string>
+    <string name="result">Result</string>
+</resources>
